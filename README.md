@@ -17,7 +17,7 @@ I have been actively engaged in learning programming due to my profound interest
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/abderrahmane-03/count.svg" />
 </p>
 
 <p align="left">
