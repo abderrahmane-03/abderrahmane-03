@@ -8,7 +8,7 @@ I have been actively engaged in learning programming due to my profound interest
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [abdrahmanhafidi03@gmail.com](mailto:abdrahmanhafidi03@gmail.com)
-* 🧠  I'm experienced in laravel AND SPRING BOOT
+* 🧠  I'm experienced in laravel,React,AND SPRING BOOT
 * :wink: Currently learning ANGULAR
 * ⚡  I play guitar on my freetime
 
