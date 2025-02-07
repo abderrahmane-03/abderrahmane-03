@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abderrahmane EL HAFIDI
 =============================================================================================================================================
 
-Full-stack Developer & Network Administrator
+Full-stack Developer 
 --------------------------------------------
 
 I have been actively engaged in learning programming due to my profound interest in Information Technology. Currently, I am pursuing my studies at YouCode Safi Campus.
